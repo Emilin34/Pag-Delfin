@@ -1,0 +1,79 @@
+.fondo {
+    background-color: aqua ;
+}
+h2 {
+  font-family: 'Lobster', cursive;
+	color:  blue;
+}
+
+h3 {
+	color: green;
+}
+
+p {
+	color: purple;
+}
+
+.lista-de-gatos {
+	color: chocolate ;
+}
+
+.color-1 {
+    border-top: 15px double blue;
+}
+.redondeado{
+
+}
+.slide{
+    margin-top: 3s0px;
+    
+  }
+  .slide img{
+    height: 95vh;
+    width: 15%;
+    
+  }
+.uno-uno{
+    border-top: 10px double black;
+    
+  }
+  .bordes-redondos{
+    margin: 10px yellow;
+    width: 500px;
+    height: 500px;
+    border-radius: 250px;
+    border-color: blue;
+    border-style: double;
+    border-width: 10px;
+    
+  }
+  #parrafo-uno{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+  }
+  #fondo{
+    background-color: rgba(0, 110, 255, 0.783);
+  }
+#gif{
+  border-style: dashed yellow;
+  padding: 10px;
+  background-color: rgba(194, 21, 21, 0.967);
+}
+.dos-dos{
+  background-color: seagreen;
+ border-top: 25px double;
+ border-color: blue;
+}
+.img-tres {
+    margin: 10px yellow;
+    width: 500px;
+    height: 500px;
+    border-radius: 250px;
+    border-color: salmon;
+    border-style: dashed;
+    border-width: 10px;
+}
+
+
+  

@@ -1,0 +1,120 @@
+#delfin{
+	position: relative;
+	margin: auto;
+	display: block;
+	margin-top: 0%;
+	width: 100%;
+  height: 700px;
+  background-image: url(https://imagenes.t13.cl/images/original/2017/04/1493047429-957652172879.jpg?width=670&dpr=2);
+}
+#cuerpo{
+	top: 20%;
+	left: 15%;
+	background-color: #6495ED;
+	width: 400px;
+	height: 245px;
+	border-radius: 100% 100% 10% 100%;
+	border: 15px;
+	transform: rotate(5deg);
+}
+.parte2{
+	top: 33%;
+	left: 60%;
+	background-color: #6495ED;
+	width: 70%;
+	height: 190px;
+	border-radius: 10% 80% 30% 10%;
+	transform: rotate(35deg);
+	z-index: -222;
+}
+.parte3 {
+	top: 73%;
+	left: 82%;
+	background-color: #6495ED;
+	width: 64%;
+	height: 156px;
+	border-radius: 10% 100% 20% 10%;
+	transform: rotate(49deg);
+	z-index: -222;
+}
+.derecha{
+	top: 130%;
+	left: 130%;
+	background-color: #6495ED;
+	width: 20%;
+	height: 138px;
+	border-radius: 10% 20% 100% 15%;
+	transform: rotate(-60deg);
+}
+.izquierda{
+	top: 135%;
+	left: 93%;
+	background-color: #6495ED;
+	width: 20%;
+	height: 138px;
+	border-radius: 10% 100% 20% 15%;
+	transform: rotate(-128deg);
+}
+.aleta{
+	top: 80%;
+	left: 45%;
+	background-color: #6495ED;
+	width: 18%;
+	height: 100px;
+	border-radius: 10% 20% 100% 15%;
+	transform: rotate(-45deg);
+}
+.aleta2{
+	top: 70%;
+	left: 20%;
+	background-color: #6495ED;
+	width: 18%;
+	height: 100px;
+	border-radius: 10% 20% 10% 105%;
+	transform: rotate(60deg);
+  z-index: -222;
+}
+.aleta3{
+  top: -27%;
+  left: 63%;
+  background: #6495ED;
+  width: 30%;
+  height: 40%;
+  border-radius: 10% 30% 10% 150%;
+  transform: rotate(120deg);
+}
+.boca-superior{
+	top: 42%;
+  left: -14%;
+  background: var(--pinguino-pico, #6495ED);
+  width: 18%;
+  height: 14%;
+  border-radius: 50%;
+}
+.boca-inferior{
+top: 52%;
+  left: -10%;
+  background: var(--pinguino-pico, #6495ED);
+  width: 13%;
+  height: 10%;
+  border-radius: 50%;
+}
+.ojo{
+  top: 30%;
+  left: 8%;
+  background: white;
+  width: 6%;
+  height: 15%;
+  border-radius: 50%;
+}
+.reflejo-ojo {
+  top: 30%;
+  left: 30%;
+  background: black;
+  width: 40%;
+  height: 40%;
+  border-radius: 50%;
+}
+#delfin * {
+  position: absolute;
+}
